@@ -1,0 +1,139 @@
+body {
+    margin: 0;
+    font-family: "Oxanium", cursive;
+    color: #402718;
+    background-color: #c7c6c6;
+
+
+}
+
+.cabecalho {
+    background-image: url(imagens/dog_editado.png);
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 600px;
+    padding-top: 1px;
+    bottom: auto;
+
+}
+
+.cabecalho nav ul {
+    padding: 10px;
+    font-family: "oxanium" cursive;
+    margin: 25px 40px 0 0;
+    text-align: right;
+
+
+}
+
+.cabecalho nav ul li {
+    display: inline-block;
+    padding: 8px;
+    list-style-type: none;
+    text-transform: uppercase;
+    margin-left: 15px;
+    border-radius: 5px;
+
+}
+
+.cabecalho nav a {
+    text-decoration: none;
+    color: #402718;
+    background-color: #D97386;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.cabecalho nav a:hover {
+    background-color: #402718;
+    color: #D97386;
+
+}
+
+.div-cabecalho {
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 250px;
+    font-size: 20px;
+    width: auto;
+    height: auto;
+
+
+}
+
+.div-cabecalho a {
+    background-color: #D97386;
+    color: #402718;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.div-cabecalho a:hover {
+    background-color: #402718;
+    color: #D97386;
+}
+
+.main {
+
+    text-align: left;
+
+}
+
+.main h2 {
+    background-color: #D9AF8B;
+    padding: 3px;
+    margin-top: 0;
+    color: #402718;
+    text-align: center
+}
+
+.img-passeio {
+
+    float: left;
+    width: 90px;
+    height: auto;
+
+}
+
+.img-passeio:hover {
+    transform: scale(1.2)
+}
+
+.main section {
+    width: 50%;
+    margin: auto
+}
+
+.img-veterinario {
+    float: left;
+    width: 75px;
+    height: auto;
+}
+
+.img-veterinario:hover {
+    transform: scale(1.2)
+}
+
+.img-love {
+    float: left;
+    width: 80px;
+    height: auto;
+}
+
+.img-love:hover {
+    transform: scale(1.2)
+}
+
+.rodape {
+    text-align: right;
+    font-size: 12px;
+}
+
+main p {
+    font-size: 15px;
+
+    letter-spacing: 25%;
+}
