@@ -128,8 +128,11 @@ body {
 }
 
 .rodape {
-    text-align: right;
+    text-align: center;
     font-size: 12px;
+    background-color: #D9AF8B;
+    font-size: 20px;
+    
 }
 
 main p {
